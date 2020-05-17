@@ -1,0 +1,2 @@
+E:\HK2-III\KTTKPM\ActiveMQ_Console\Listener\bin\Debug\Listener.exe.config
+E:\HK2-III\KTTKPM\ActiveMQ_Console\Listener\obj\Debug\Listener.csprojResolveAssemblyReference.cache

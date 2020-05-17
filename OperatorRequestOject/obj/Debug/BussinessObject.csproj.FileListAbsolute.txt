@@ -1,0 +1,4 @@
+E:\HK2-III\KTTKPM\ActiveMQ_Console\OperatorRequestOject\bin\Debug\OperatorRequestOject.dll
+E:\HK2-III\KTTKPM\ActiveMQ_Console\OperatorRequestOject\bin\Debug\OperatorRequestOject.pdb
+E:\HK2-III\KTTKPM\ActiveMQ_Console\OperatorRequestOject\obj\Debug\OperatorRequestOject.dll
+E:\HK2-III\KTTKPM\ActiveMQ_Console\OperatorRequestOject\obj\Debug\OperatorRequestOject.pdb
